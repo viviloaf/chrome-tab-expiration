@@ -1,0 +1,9 @@
+{
+    "name": "Expiring Chrome Tabs",
+    "description": "Set a tab to close after a set amoount of time",
+    "version": "0.01a",
+    "manifest_version": 3,
+    "background": {
+            "service_worker": "background.js"
+    }
+  }
